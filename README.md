@@ -6,14 +6,17 @@ Curated list of technical resources
 Laravel
 https://laravelcode.com/index.php#
 
-## Javascript Frameworks
+# Javascript 
+## Frameworks
 ### React
 * Advanced React usage: https://courses.totalreact.com/courses/250055/lectures/3897343
 * UI development environment: https://storybook.js.org/
 * Templates: https://codesandbox.io/search?refinementList%5Btemplate%5D%5B0%5D=create-react-app
 ### Vue
 ### Angular 
-
+## Package Managers
+* NPM
+* Yarn
 ## UI Frameworks
 ### Semantic
 ### Material
