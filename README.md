@@ -1,12 +1,3 @@
-# resources
-Curated list of technical resources
-
-
-# PHP
-
-Laravel
-https://laravelcode.com/index.php#
-
 # Javascript 
 Vue  
 Angular  
@@ -21,12 +12,18 @@ React
 NPM  
 Yarn
 
-# UI Frameworks
+# Mobile
+[Ionic](https://ionicframework.com/)  
+[StencilJS](https://stenciljs.com)
+
+# PHP
+Laravel
+https://laravelcode.com/index.php#
+
+# UI
 Semantic  
 Material
 * Material + React: https://material-ui-next.com/
 * Material + Angular: https://material.angular.io/
 
-# Mobile
-[Ionic](https://ionicframework.com/)  
-[StencilJS](https://stenciljs.com)
+
