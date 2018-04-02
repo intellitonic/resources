@@ -3,7 +3,7 @@ Curated list of technical resources
 
 
 # PHP
-Laravel
+### Laravel
 https://laravelcode.com/index.php#
 
 # Javascript 
@@ -15,8 +15,8 @@ https://laravelcode.com/index.php#
 ### Vue
 ### Angular 
 ## Package Managers
-* NPM
-* Yarn
+### NPM
+### Yarn
 # UI Frameworks
 ### Semantic
 ### Material
@@ -24,5 +24,5 @@ https://laravelcode.com/index.php#
 * Material + Angular: https://material.angular.io/
 
 # Mobile
-* [Ionic](https://ionicframework.com/)
-* [StencilJS](https://stenciljs.com)
+### [Ionic](https://ionicframework.com/)
+### [StencilJS](https://stenciljs.com)
