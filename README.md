@@ -6,7 +6,6 @@ Curated list of technical resources
 Laravel
 https://laravelcode.com/index.php#
 
-
 ## Javascript Frameworks
 ### React
 * Advanced React usage: https://courses.totalreact.com/courses/250055/lectures/3897343
@@ -16,7 +15,7 @@ https://laravelcode.com/index.php#
 ### Angular 
 
 ## UI Frameworks
-* Semantic
-* Material
-  * Material + React: https://material-ui-next.com/
-  * Material + Angular: https://material.angular.io/
+### Semantic
+### Material
+* Material + React: https://material-ui-next.com/
+* Material + Angular: https://material.angular.io/
