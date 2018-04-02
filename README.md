@@ -24,5 +24,5 @@ https://laravelcode.com/index.php#
 * Material + Angular: https://material.angular.io/
 
 # Mobile
-[Ionic](https://ionicframework.com/)
-[StencilJS](https://stenciljs.com)
+* [Ionic](https://ionicframework.com/)
+* [StencilJS](https://stenciljs.com)
