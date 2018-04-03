@@ -4,6 +4,9 @@
   * [Axios](https://yarnpkg.com/en/package/axios)  
 
 **[React](https://reactjs.org/)**
+* Development
+  * Live editing: [Electron-React](https://github.com/chentsulin/electron-react-boilerplate)
+  * Mobile Apps: [NativeBase](https://nativebase.io/)
 * Learning
   * [Advanced React usage](https://courses.totalreact.com/courses/250055/lectures/3897343)
 * Packages
@@ -11,10 +14,11 @@
   * [Styled Components](https://www.npmjs.com/package/styled-components)
   * Charts: [ReCharts](http://recharts.org/)
   * Date/Time: [Moment](https://www.npmjs.com/package/react-moment)
+* [Templates](https://codesandbox.io/search?refinementList%5Btemplate%5D%5B0%5D=create-react-app)
 * Testing
   * [Mocha](https://mochajs.org/)
   * [Enzyme](https://github.com/airbnb/enzyme)  
-* [Templates](https://codesandbox.io/search?refinementList%5Btemplate%5D%5B0%5D=create-react-app)
+
 
 **[Redux](https://redux.js.org/)**  
 **[Vue.js](https://vuejs.org/)**
