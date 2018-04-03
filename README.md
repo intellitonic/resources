@@ -36,5 +36,5 @@
 * [Material-Angular](https://material.angular.io/) Material + Angular  
 
 **[Storybook](https://storybook.js.org/)**: UI development environment  
-**Semantic**
+**[Semantic](semantic-ui.com)**
 
