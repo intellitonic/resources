@@ -1,5 +1,5 @@
 # Javascript 
-**[Angular](https://angularjs.org/)**
+**[Angular](https://angularjs.org/)**  
 **[NodeJS](https://nodejs.org/en/)**
   * [Axios](https://yarnpkg.com/en/package/axios)  
 
@@ -9,13 +9,13 @@
 * Packages
   * [Prop-types](https://www.npmjs.com/package/prop-types)
   * [Styled Components](https://www.npmjs.com/package/styled-components)
-  * [ReCharts](http://recharts.org/) | React charts
+  * [ReCharts](http://recharts.org/): React charts
 * Testing
   * [Mocha](https://mochajs.org/)
   * [Enzyme](https://github.com/airbnb/enzyme)  
 * [Templates](https://codesandbox.io/search?refinementList%5Btemplate%5D%5B0%5D=create-react-app)
 
-**[Redux](https://redux.js.org/)**
+**[Redux](https://redux.js.org/)**  
 **[Vue.js](https://vuejs.org/)**
 
 ### Package Managers
@@ -23,7 +23,7 @@
 **[Yarn](https://yarnpkg.com/en/)**
 
 # Mobile
-**[Ionic](https://ionicframework.com/)**
+**[Ionic](https://ionicframework.com/)**  
 **[StencilJS](https://stenciljs.com)**
 
 # PHP
@@ -33,7 +33,8 @@
 # UI
 **[Material](https://www.material-ui.com/#/)**
 * [Material-Next](https://material-ui-next.com/) Material + React
-* [Material-Angular](https://material.angular.io/) Material + Angular: 
-**[Storybook](https://storybook.js.org/)** UI development environment
+* [Material-Angular](https://material.angular.io/) Material + Angular  
+
+**[Storybook](https://storybook.js.org/)**: UI development environment  
 **Semantic**
 
