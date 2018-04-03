@@ -29,6 +29,7 @@
 # PHP
 **[Laravel](https://laravelcode.com/index.php#)**
 * [Laracasts](https://laracasts.com/)
+* [Eloquent w/o Laravel](https://siipo.la/blog/how-to-use-eloquent-orm-migrations-outside-laravel)
 
 # UI
 **[Material](https://www.material-ui.com/#/)**
