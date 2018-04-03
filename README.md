@@ -9,7 +9,8 @@
 * Packages
   * [Prop-types](https://www.npmjs.com/package/prop-types)
   * [Styled Components](https://www.npmjs.com/package/styled-components)
-  * [ReCharts](http://recharts.org/): React charts
+  * Charts: [ReCharts](http://recharts.org/)
+  * Date/Time: [Moment](https://www.npmjs.com/package/react-moment)
 * Testing
   * [Mocha](https://mochajs.org/)
   * [Enzyme](https://github.com/airbnb/enzyme)  
