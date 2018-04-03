@@ -34,6 +34,6 @@
 **[Material](https://www.material-ui.com/#/)**
 * [Material-Next](https://material-ui-next.com/) Material + React
 * [Material-Angular](https://material.angular.io/) Material + Angular: 
-**[Storybook](https://storybook.js.org/) UI development environment**
-Semantic  
+**[Storybook](https://storybook.js.org/)** UI development environment
+**Semantic**
 
