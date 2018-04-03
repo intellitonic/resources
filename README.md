@@ -2,6 +2,7 @@
 [Angular](https://angularjs.org/)  
 [NodeJS](https://nodejs.org/en/)  
 * [Axios](https://yarnpkg.com/en/package/axios)  
+
 React
 * Advanced React usage: https://courses.totalreact.com/courses/250055/lectures/3897343
 * UI development environment: https://storybook.js.org/
